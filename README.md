@@ -2,6 +2,9 @@
 
 **We provide back-end server, not front. So you should use api testing tools like postman**
 
+## Notion
+https://korea-bear-family.notion.site/Project-SAS-6433dfe3d886433d9117b64a0e0effb1
+
 ## Image
 https://storage.googleapis.com/software_security/ku-security.vmdk. 
 
